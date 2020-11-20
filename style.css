@@ -1,0 +1,65 @@
+body {
+    background-color: #ffba00;
+     !important font-family: cursive;
+    color: #000000;
+}
+
+span {
+    text-align: center;
+}
+
+.nav-background {
+    background-color: #ffba00;
+}
+
+.heading {
+    color: #ffba00;
+}
+
+span {
+    font-family: cursive;
+}
+
+p {
+    margin: 10px;
+    text-align: justify;
+    color: #ffba00;
+    font-family: cursive;
+    font-size: 250%;
+}
+
+img {
+    padding: 30px;
+    max-height: 400px;
+}
+
+h4,
+h5,
+h6 {
+    font-family: cursive;
+    font-size: 100px;
+    padding: 20px;
+    color: #ffba00;
+    margin: 20px;
+}
+
+.center {
+    display: flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.full-width {
+    width: 100vw;
+}
+
+
+h3 {
+    font-family: cursive;
+    color: #ffba00;
+}
+
+.footer {
+    padding: 10px;
+}
